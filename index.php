@@ -32,8 +32,8 @@
                 <div class="carousel-item active">
                     <img src="assets/images/banner/1.avif" class="d-block w-100" alt="AC Repair in Bhubaneswar" width="1060" height="530">
                     <div class="carousel-caption">
-                        <h1>Washing Machine Repair Experts</h1>
-                        <p>Front Load, Top Load or Semi — We Repair All Types with Care</p>
+                        <h1 data-lang-key="hero_title_1">Washing Machine Repair Experts</h1>
+                        <p data-lang-key="hero_desc_1">Front Load, Top Load or Semi — We Repair All Types with Care</p>
                     </div>
                 </div>
 
@@ -41,9 +41,8 @@
                 <div class="carousel-item">
                     <img src="assets/images/banner/2.avif" class="d-block w-100"  alt="Fridge Repair in Bhubaneswar" width="1060" height="454" loading="lazy">
                     <div class="carousel-caption">
-                        <h2>Expert AC Repair Services</h2>
-                        <p>Quick, Reliable & Affordable AC Repair at Your Doorstep in Bhubaneswar</p>
-
+                        <h2 data-lang-key="hero_title_2">Expert AC Repair Services</h2>
+                        <p data-lang-key="hero_desc_2">Quick, Reliable & Affordable AC Repair at Your Doorstep in Bhubaneswar</p>
                     </div>
                 </div>
 
@@ -52,9 +51,8 @@
                     <img src="assets/images/banner/3.avif" class="d-block w-100"
                         alt="Washing Machine Repair in Bhubaneswar" width="1060" height="530" loading="lazy">
                     <div class="carousel-caption">
-                        <h2>Trusted Refrigerator Repair</h2>
-                        <p>We Fix Cooling, Gas, Leakage & More — Same-Day Fridge Service</p>
-
+                        <h2 data-lang-key="hero_title_3">Trusted Refrigerator Repair</h2>
+                        <p data-lang-key="hero_desc_3">We Fix Cooling, Gas, Leakage & More — Same-Day Fridge Service</p>
                     </div>
                 </div>
             </div>
@@ -131,32 +129,28 @@
                 <div class="col-md-5 mb-4 mb-md-0">
                     <div class="about-image position-relative">
                         <img src="assets/images/about/1.avif" alt="Appliance Repair" class="img-fluid rounded shadow">
-                        <span class="about-badge">Fast & Reliable</span>
+                        <span class="about-badge" data-lang-key="about_badge">Fast & Reliable</span>
                     </div>
                 </div>
 
                 <!-- Right Content -->
                 <div class="col-md-7">
                     <div class="head-title">
-                        <h2 class="mb-3">About <span>Our Repair Services</span></h2>
+                        <h2 class="mb-3" data-lang-key="about_title">About Our Repair Services</h2>
                         <div class="underline"></div>
-                        <p class="subtitle">Expert Refrigerator, AC, and Appliance Repairs at Your Doorstep</p>
+                        <p class="subtitle" data-lang-key="about_subtitle">Expert Refrigerator, AC, and Appliance Repairs at Your Doorstep</p>
                     </div>
 
-                    <p class="mb-4">We specialize in <strong>Refrigerator, AC, and Fridge Repair</strong> ensuring
-                        quick,
-                        affordable, and hassle-free service at your doorstep. Our experienced technicians guarantee
-                        reliable
-                        repairs with genuine parts and top-notch quality.</p>
+                    <p class="mb-4" data-lang-key="about_p1">We specialize in Refrigerator, AC, and Fridge Repair ensuring quick, affordable, and hassle-free service at your doorstep. Our experienced technicians guarantee reliable repairs with genuine parts and top-notch quality.</p>
 
                     <ul class="list-unstyled mb-4">
-                        <li class="mb-2">✔ 24/7 Emergency Support</li>
-                        <li class="mb-2">✔ Affordable Pricing</li>
-                        <li class="mb-2">✔ Certified & Experienced Technicians</li>
-                        <li>✔ 100% Customer Satisfaction</li>
+                        <li class="mb-2" data-lang-key="about_feature_1">✔ 24/7 Emergency Support</li>
+                        <li class="mb-2" data-lang-key="about_feature_2">✔ Affordable Pricing</li>
+                        <li class="mb-2" data-lang-key="about_feature_3">✔ Certified & Experienced Technicians</li>
+                        <li data-lang-key="about_feature_4">✔ 100% Customer Satisfaction</li>
                     </ul>
 
-                    <a href="#contact" class="btn btn-primary px-4">Book a Technician</a>
+                    <a href="#contact" class="btn btn-primary px-4" data-lang-key="about_btn">Book a Technician</a>
                 </div>
 
             </div>
@@ -312,13 +306,15 @@
     <!-- ================================================= -->
     <?php include "slider.php"; ?>
     <!-- ================================================== -->
+    <!-- Important Customer Guidelines & Reward Policy Section -->
+    <?php include "common/guidelines-section.php"; ?>
+    <!-- ================================================== -->
     <!-- Service Areas Section -->
     <section class="service-areas-section py-5 bg-light">
         <div class="container">
             <div class="text-center head-title mb-4">
-                <h2 class="fw-bold">We Serve All Over <span>Bhubaneswar</span></h2>
-                <p class="text-muted">Hansraj Enterprises provides doorstep appliance repair services across all major
-                    localities of Bhubaneswar.</p>
+                <h2 class="fw-bold"><span data-lang-key="serve_all_title">We Serve All Over Bhubaneswar</span></h2>
+                <p class="text-muted" data-lang-key="serve_all_desc">Hansraj Enterprises provides doorstep appliance repair services across all major localities of Bhubaneswar.</p>
             </div>
 
             <div class="row">
