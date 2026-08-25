@@ -47,41 +47,34 @@
 <!-- 3. Slider styling -->
 <style>
     .service-slider {
-        /* keeps height sensible on all devices */
-        --h-small: 220px;
-        --h-medium: 320px;
-        --h-large: 420px;
+        padding: 30px 0;
+        background: #ffffff;
     }
 
-    .service-slider .swiper,
-    .service-slider .swiper-slide {
+    .service-slider .swiper {
         width: 100%;
-        height: var(--h-small);
+        padding-bottom: 35px;
+    }
+
+    .service-slider .swiper-slide {
+        display: flex;
+        justify-content: center;
+        align-items: center;
     }
 
     .service-slider .swiper-slide img {
         width: 100%;
-        height: 300px;
+        height: 240px;
         object-fit: cover;
-        border: 5px solid var(--secondary-color);
-        border-radius: 20px;
+        border: 3px solid var(--secondary-color, #ffc107);
+        border-radius: 16px;
+        box-shadow: 0 6px 16px rgba(0, 0, 0, 0.08);
     }
 
-    /* ⬇︎ height breakpoints */
-    @media (min-width: 576px) {
-
-        .service-slider .swiper,
-        .service-slider .swiper-slide {
-            height: var(--h-medium);
-        }
-    }
-
-    @media (min-width: 992px) {
-
-        .service-slider .swiper,
-        .service-slider .swiper-slide {
-            height: var(--h-large);
-        }
+    .service-slider .swiper-pagination-bullet-active {
+        background: var(--primary-color, #0387cf);
+        width: 20px;
+        border-radius: 6px;
     }
 </style>
 

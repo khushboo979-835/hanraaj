@@ -1,4 +1,4 @@
-﻿/**
+/**
  * Hansraj Enterprises - Multi-Language Translation Manager
  * Supports: English (en), Hindi (hi), Odia (or)
  */
@@ -383,20 +383,21 @@ const HansrajLang = {
             }
         });
 
-        // Sync guidelines section multi-lang tab panes if present
-        document.querySelectorAll('.guidelines-lang-pane').forEach(pane => {
-            if (pane.id === 'guidelines-' + lang) {
-                pane.classList.add('show', 'active');
+        // Update active class on all language switchers across the page
+        document.querySelectorAll('.lang-btn, .lang-switch-btn, .guideline-tab-btn, .lang-select-option').forEach(el => {
+            if (el.getAttribute('data-lang') === lang) {
+                el.classList.add('active');
             } else {
-                pane.classList.remove('show', 'active');
+                el.classList.remove('active');
             }
         });
 
-        document.querySelectorAll('.guideline-tab-btn').forEach(btn => {
-            if (btn.getAttribute('data-lang') === lang) {
-                btn.classList.add('active');
+        // Sync guidelines section multi-lang tab panes
+        document.querySelectorAll('.guidelines-lang-pane').forEach(pane => {
+            if (pane.id === 'guidelines-' + lang) {
+                pane.classList.add('active');
             } else {
-                btn.classList.remove('active');
+                pane.classList.remove('active');
             }
         });
 
