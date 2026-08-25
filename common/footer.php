@@ -4,19 +4,6 @@
 <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
 <script src="<?= $base_url ?>assets/js/language-manager.js"></script>
 
-<!-- Google Translate Hidden Element for Comprehensive Translation -->
-<div id="google_translate_element" style="display:none;"></div>
-<script type="text/javascript">
-function googleTranslateElementInit() {
-  new google.translate.TranslateElement({
-    pageLanguage: 'en',
-    includedLanguages: 'en,hi,or',
-    autoDisplay: false
-  }, 'google_translate_element');
-}
-</script>
-<script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
-
 <!-- ========================================================================================= -->
 <!-- Footer CSS -->
 <style>

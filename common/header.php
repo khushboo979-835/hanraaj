@@ -64,69 +64,79 @@
 <!-- Top Header -->
 <style>
     .top-header {
-        font-size: 13.5px;
-        background: var(--primary-color, #0387cf);
-        color: var(--tertiary-color, #fff);
+        font-size: 13px;
+        background: linear-gradient(90deg, #0b1f3a 0%, #0387cf 100%);
+        color: #ffffff;
+        border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+        padding: 5px 0;
     }
 
-    .top-header i {
+    .top-header a {
+        color: #f1f5f9;
+        transition: color 0.2s ease;
+    }
+
+    .top-header a:hover {
         color: #ffdd00;
     }
 
-    /* Language Switcher Styling */
+    .top-header i {
+        color: #ffc107;
+    }
+
+    /* Executive Language Switcher */
     .lang-switcher-wrap {
         display: inline-flex;
         align-items: center;
-        background: rgba(255, 255, 255, 0.2);
-        padding: 3px 6px;
-        border-radius: 20px;
-        border: 1px solid rgba(255, 255, 255, 0.4);
+        background: rgba(0, 0, 0, 0.25);
+        padding: 2px 4px;
+        border-radius: 30px;
+        border: 1px solid rgba(255, 255, 255, 0.25);
+        gap: 2px;
     }
 
     .lang-btn {
         background: transparent;
         border: none;
-        color: #fff;
-        font-size: 12.5px;
-        font-weight: 600;
-        padding: 2px 10px;
-        border-radius: 15px;
+        color: #cbd5e1;
+        font-size: 12px;
+        font-weight: 700;
+        padding: 3px 10px;
+        border-radius: 20px;
         cursor: pointer;
-        transition: all 0.25s ease;
+        transition: all 0.2s ease;
         text-decoration: none;
     }
 
     .lang-btn:hover {
-        background: rgba(255, 255, 255, 0.3);
-        color: #fff;
+        color: #ffffff;
+        background: rgba(255, 255, 255, 0.15);
     }
 
     .lang-btn.active {
-        background: #fff;
+        background: #ffffff;
         color: #0387cf !important;
-        box-shadow: 0 2px 6px rgba(0,0,0,0.2);
+        box-shadow: 0 2px 8px rgba(0, 0, 0, 0.25);
     }
 
     .guideline-nav-badge {
-        background: #ff5722;
-        color: #fff;
-        font-size: 10px;
+        background: #dc2626;
+        color: #ffffff;
+        font-size: 9px;
         padding: 2px 6px;
-        border-radius: 8px;
+        border-radius: 6px;
         margin-left: 4px;
-        font-weight: bold;
+        font-weight: 700;
+        letter-spacing: 0.5px;
         text-transform: uppercase;
     }
 
     @media (max-width: 768px) {
         .top-header {
-            font-size: 12px;
-        }
-        .lang-switcher-wrap {
-            padding: 2px 4px;
+            font-size: 11.5px;
         }
         .lang-btn {
-            font-size: 11.5px;
+            font-size: 11px;
             padding: 2px 6px;
         }
     }
@@ -135,8 +145,8 @@
     .dropdown-menu {
         border-radius: 12px;
         padding: 10px 0;
-        border: none;
-        box-shadow: 0px 8px 20px rgba(0,0,0,0.1);
+        border: 1px solid #e2e8f0;
+        box-shadow: 0px 10px 25px rgba(0,0,0,0.08);
         margin-top: 10px;
         min-width: 220px;
         animation: fadeIn 0.3s ease-in-out;
@@ -169,23 +179,23 @@
     }
 </style>
 
-<div class="top-header py-1 border-bottom">
+<div class="top-header">
     <div class="container">
         <div class="d-flex flex-wrap justify-content-between align-items-center gap-2">
             <!-- Left: Helpline & Email -->
             <div class="d-flex align-items-center flex-wrap gap-3">
-                <a href="tel:+917752083960" class="text-white text-decoration-none fw-semibold">
-                    <i class="bi bi-shield-fill-check me-1"></i> <span data-lang-key="official_helpline">Official Helpline</span>: <strong>7752083960</strong>
+                <a href="tel:+917752083960" class="text-decoration-none fw-bold text-warning">
+                    <i class="bi bi-shield-fill-check me-1 text-warning"></i> <span data-lang-key="official_helpline">Official Helpline</span>: <strong>7752083960</strong>
                 </a>
                 <span class="d-none d-md-inline text-white-50">|</span>
-                <a href="mailto:hansrajenterprises@gmail.com" class="text-white text-decoration-none d-none d-md-inline">
+                <a href="mailto:hansrajenterprises@gmail.com" class="text-decoration-none d-none d-md-inline small">
                     <i class="bi bi-envelope-fill me-1"></i> hansrajenterprises@gmail.com
                 </a>
             </div>
 
             <!-- Right: Language Switcher Mode -->
             <div class="d-flex align-items-center gap-2 ms-auto">
-                <span class="text-white small fw-bold d-none d-sm-inline"><i class="bi bi-translate me-1"></i> Language:</span>
+                <span class="text-white-50 small fw-bold d-none d-sm-inline"><i class="bi bi-translate me-1 text-warning"></i> Language:</span>
                 <div class="lang-switcher-wrap" role="group" aria-label="Language Mode Switcher">
                     <button type="button" class="lang-btn active" data-lang="en" title="English">English</button>
                     <button type="button" class="lang-btn" data-lang="hi" title="हिन्दी">हिन्दी</button>
