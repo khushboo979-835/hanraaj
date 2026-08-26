@@ -3,15 +3,15 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 <!-- SEO Meta Tags -->
-<title>Washing Machine Repair in Bhubaneswar | Hansraj Enterprises</title>
+<title>Home Appliance & Washing Machine Repair in Uttar Pradesh | Hansraj Enterprises</title>
 <meta name="description"
-    content="Hansraj Enterprises provides reliable washing machine repair in Bhubaneswar with expert technicians, quick doorstep service, and support for all major brands.">
+    content="Hansraj Enterprises provides reliable washing machine, AC & refrigerator repair in Uttar Pradesh with expert technicians, quick doorstep service, and brand support.">
 <meta name="keywords"
-    content="Hansraj Enterprises, washing machine repair Bhubaneswar, AC repair Bhubaneswar, home appliance repair, Bhubaneswar technician, AC servicing, washing machine technician">
+    content="Hansraj Enterprises, washing machine repair Uttar Pradesh, AC repair UP, home appliance repair, UP technician, AC servicing, washing machine technician">
 <meta name="author" content="Hansraj Enterprises">
 <link rel="canonical" href="https://hansrajenterprises.com/">
 <!-- Favicon -->
-<link rel="icon" href="<?= $base_url ?>assets/images/logo/logo.jpg" type="image/x-icon">
+<link rel="icon" href="<?= $base_url ?>assets/images/logo/logo.png" type="image/x-icon">
 
 <!-- Preload for faster fetch -->
 <link rel="preload" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" as="style">
@@ -21,17 +21,17 @@
 <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" crossorigin="anonymous">
 <link rel="stylesheet" href="<?= $base_url ?>assets/css/style.css">
 <meta property="og:type" content="website">
-<meta property="og:title" content="Washing Machine Repair in Bhubaneswar | Hansraj Enterprises">
+<meta property="og:title" content="Home Appliance & Washing Machine Repair in Uttar Pradesh | Hansraj Enterprises">
 <meta property="og:url" content="https://hansrajenterprises.com/">
 <meta property="og:image" content="https://hansrajenterprises.com/assets/images/about/washing-machine.jpg">
-<meta property="og:description" content="Hansraj Enterprises provides reliable washing machine repair in Bhubaneswar with expert technicians, quick doorstep service, and support for all major brands.">
+<meta property="og:description" content="Hansraj Enterprises provides reliable washing machine, AC & refrigerator repair in Uttar Pradesh with expert technicians, quick doorstep service, and brand support.">
 
 <meta name="twitter:card" content="summary">
-<meta name="twitter:title" content="Washing Machine Repair in Bhubaneswar | Hansraj Enterprises">
+<meta name="twitter:title" content="Home Appliance & Washing Machine Repair in Uttar Pradesh | Hansraj Enterprises">
 <meta name="twitter:site" content="@https://hansrajenterprises.com/">
-<meta name="twitter:description" content="Hansraj Enterprises provides reliable washing machine repair in Bhubaneswar with expert technicians, quick doorstep service, and support for all major brands.">
+<meta name="twitter:description" content="Hansraj Enterprises provides reliable washing machine, AC & refrigerator repair in Uttar Pradesh with expert technicians, quick doorstep service, and brand support.">
 <meta name="twitter:image" content="https://hansrajenterprises.com/assets/images/about/washing-machine.jpg">
-<meta name="twitter:image:alt" content="washine machine repair in bhubaneswar ">
+<meta name="twitter:image:alt" content="home appliance repair in Uttar Pradesh">
 
 <meta name="google-site-verification" content="mFWcYCpCs33JX8Fkdm6Xjh-FSWUeGcradAGVm" />
 
