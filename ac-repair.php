@@ -15,12 +15,12 @@
 <!-- HERO -->
 <section class="hero-section text-white d-flex align-items-center">
     <div class="container text-center">
-        <h1 data-aos="fade-up">Expert AC Repair Services in Bhubaneswar</h1>
+        <h1 data-aos="fade-up">Expert AC Repair Services in Uttar Pradesh</h1>
         <p data-aos="fade-up" data-aos-delay="200">
             Fast, Reliable & Affordable AC Repair at Your Doorstep
         </p>
-        <a href="tel:+917894606334" class="btn btn-light mt-3" data-aos="zoom-in">
-            📞 Call Now
+        <a href="tel:+9178579023438" class="btn btn-light mt-3" data-aos="zoom-in">
+            📞 Call Now: 78579023438
         </a>
     </div>
 </section>
@@ -77,11 +77,11 @@
 <section class="py-5 text-center">
     <div class="container">
         <h2 class="fw-bold mb-4" data-aos="fade-up">
-            Professional AC Repair Services in Bhubaneswar
+            Professional AC Repair Services in Uttar Pradesh
         </h2>
 
         <p class="text-muted" style="max-width:850px;margin:auto;" data-aos="fade-up" data-aos-delay="200">
-            Looking for trusted and professional AC repair services in Bhubaneswar? 
+            Looking for trusted and professional AC repair services in Uttar Pradesh? 
             Hansraj Enterprises offers complete air conditioning solutions including 
             installation, gas refilling, servicing and repair for all major brands like LG, 
             Samsung, Voltas and more.
@@ -112,31 +112,31 @@
 
         <div class="row">
 
-            <div class="col-md-3" data-aos="zoom-in">
+            <div class="col-md-3 mb-4" data-aos="fade-up">
                 <div class="why-box">
-                    <h4>⚡</h4>
-                    <h6>Same Day Service</h6>
-                    <p>Get your AC repaired quickly with our fast response team.</p>
+                    <h4>⏱️</h4>
+                    <h6>Fast Service</h6>
+                    <p>Same-day doorstep repair service available.</p>
                 </div>
             </div>
 
-            <div class="col-md-3" data-aos="zoom-in" data-aos-delay="100">
+            <div class="col-md-3 mb-4" data-aos="fade-up" data-aos-delay="100">
                 <div class="why-box">
                     <h4>👨‍🔧</h4>
-                    <h6>Expert Technicians</h6>
-                    <p>Highly skilled professionals with years of experience.</p>
+                    <h6>Expert Techs</h6>
+                    <p>Trained & certified technicians for all AC brands.</p>
                 </div>
             </div>
 
-            <div class="col-md-3" data-aos="zoom-in" data-aos-delay="200">
+            <div class="col-md-3 mb-4" data-aos="fade-up" data-aos-delay="200">
                 <div class="why-box">
                     <h4>💰</h4>
-                    <h6>Affordable Pricing</h6>
+                    <h6>Affordable</h6>
                     <p>Transparent pricing with no hidden charges.</p>
                 </div>
             </div>
 
-            <div class="col-md-3" data-aos="zoom-in" data-aos-delay="300">
+            <div class="col-md-3 mb-4" data-aos="fade-up" data-aos-delay="300">
                 <div class="why-box">
                     <h4>📞</h4>
                     <h6>24/7 Support</h6>
@@ -148,13 +148,11 @@
     </div>
 </section>
 
-
-
 <!-- CTA -->
 <section class="cta-section text-white text-center py-5">
     <div class="container">
         <h3>Need AC Repair Service?</h3>
-        <a href="tel:+917894606334" class="btn btn-light mt-3">Call Now</a>
+        <a href="tel:+9178579023438" class="btn btn-light mt-3">Call Now: 78579023438</a>
     </div>
 </section>
 

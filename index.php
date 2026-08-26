@@ -14,58 +14,28 @@
     <?php include $base_path . "common/header.php"; ?>
     <!-- ========================================== -->
 
-    <section class="hero">
-        <div id="carouselExampleIndicators" class="carousel slide" data-bs-ride="carousel" data-bs-interval="4000">
-            <!-- Indicators -->
-            <div class="carousel-indicators">
-                <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active"
-                    aria-current="true" aria-label="Slide 1"></button>
-                <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="1"
-                    aria-label="Slide 2"></button>
-                <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="2"
-                    aria-label="Slide 3"></button>
-            </div>
-
-            <!-- Slides -->
-            <div class="carousel-inner">
-                <!-- Slide 1 -->
-                <div class="carousel-item active">
-                    <img src="assets/images/banner/1.avif" class="d-block w-100" alt="AC Repair in Bhubaneswar" width="1060" height="530">
-                    <div class="carousel-caption">
-                        <h1 data-lang-key="hero_title_1">Washing Machine Repair Experts</h1>
-                        <p data-lang-key="hero_desc_1">Front Load, Top Load or Semi — We Repair All Types with Care</p>
-                    </div>
-                </div>
-
-                <!-- Slide 2 -->
-                <div class="carousel-item">
-                    <img src="assets/images/banner/2.avif" class="d-block w-100"  alt="Fridge Repair in Bhubaneswar" width="1060" height="454" loading="lazy">
-                    <div class="carousel-caption">
-                        <h2 data-lang-key="hero_title_2">Expert AC Repair Services</h2>
-                        <p data-lang-key="hero_desc_2">Quick, Reliable & Affordable AC Repair at Your Doorstep in Bhubaneswar</p>
-                    </div>
-                </div>
-
-                <!-- Slide 3 -->
-                <div class="carousel-item">
-                    <img src="assets/images/banner/3.avif" class="d-block w-100"
-                        alt="Washing Machine Repair in Bhubaneswar" width="1060" height="530" loading="lazy">
-                    <div class="carousel-caption">
-                        <h2 data-lang-key="hero_title_3">Trusted Refrigerator Repair</h2>
-                        <p data-lang-key="hero_desc_3">We Fix Cooling, Gas, Leakage & More — Same-Day Fridge Service</p>
+    <section class="hero hero-static position-relative overflow-hidden" style="background: linear-gradient(rgba(11, 31, 58, 0.75), rgba(3, 135, 207, 0.75)), url('assets/images/banner/1.avif') center/cover no-repeat; min-height: 520px; display: flex; align-items: center;">
+        <div class="container py-5">
+            <div class="row align-items-center justify-content-center text-center">
+                <div class="col-lg-10 text-white">
+                    <span class="badge bg-warning text-dark px-3 py-2 rounded-pill fw-bold mb-3 fs-6 shadow-sm">
+                        <i class="bi bi-shield-fill-check me-1"></i> #1 Trusted Appliance Repair Service in UP
+                    </span>
+                    <h1 class="display-5 fw-bold text-white mb-3" data-lang-key="hero_title_1">Expert Home Appliance Repair & Services</h1>
+                    <p class="lead text-white-50 mb-4 fs-5 mx-auto" style="max-width: 800px;" data-lang-key="hero_desc_1">Fast, reliable and affordable repair services for Washing Machines, Refrigerators, ACs & Microwaves at your doorstep across Uttar Pradesh.</p>
+                    <div class="d-flex justify-content-center flex-wrap gap-3 mt-2">
+                        <a href="tel:+9178579023438" class="btn btn-warning btn-lg fw-bold px-4 py-2 rounded-pill shadow">
+                            <i class="bi bi-telephone-fill me-2"></i> Call: 78579023438
+                        </a>
+                        <a href="https://wa.me/9178579023438?text=Hello%20Hansraj%20Enterprises,%20I%20need%20appliance%20repair%20service" class="btn btn-success btn-lg fw-bold px-4 py-2 rounded-pill shadow" target="_blank">
+                            <i class="bi bi-whatsapp me-2"></i> WhatsApp Now
+                        </a>
+                        <span type="button" class="btn btn-outline-light btn-lg fw-bold px-4 py-2 rounded-pill shadow" data-bs-toggle="modal" data-bs-target="#exampleModal">
+                            <i class="bi bi-calendar-check me-2"></i> Book Online
+                        </span>
                     </div>
                 </div>
             </div>
-
-            <!-- Controls -->
-            <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators"
-                data-bs-slide="prev">
-                <span class="carousel-control-prev-icon"></span>
-            </button>
-            <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleIndicators"
-                data-bs-slide="next">
-                <span class="carousel-control-next-icon"></span>
-            </button>
         </div>
     </section>
 
@@ -199,7 +169,7 @@
                     <img src="assets/images/about/refrigriator.jpg" alt="Fridge Repair in Bhubaneswar"
                         class="img-fluid fridge-image rounded-4 shadow-lg">
                     <div class="mt-4">
-                        <a href="tel:+917894606334" class="cta-btn">📞 Call +91-78946 06334</a>
+                        <a href="tel:+9178579023438" class="cta-btn">📞 Call +91 78579 023438</a>
                     </div>
                 </div>
             </div>
@@ -215,7 +185,7 @@
                     <div class="head-title mb-4">
                         <h2 class="fw-bold">
                             <span class="highlight-blue">Professional</span> AC Repair Services
-                            in <span class="highlight-red">Bhubaneswar</span>
+                            in <span class="highlight-red">Uttar Pradesh</span>
                             by Hansraj Enterprises
                         </h2>
                     </div>
@@ -234,17 +204,17 @@
                         <li class="list-group-item">Affordable Pricing | High Customer Satisfaction</li>
                     </ul>
 
-                    <p><strong>Service Areas:</strong> Saheed Nagar, Patia, Rasulgarh, Nayapalli, Khandagiri & more</p>
+                    <p><strong>Service Areas:</strong> Doorstep Service across Uttar Pradesh</p>
 
 
                 </div>
 
                 <!-- Image -->
                 <div class="col-12 col-md-5 text-center">
-                    <img src="assets/images/about/ac.jpg" alt="AC Repair in Bhubaneswar"
+                    <img src="assets/images/about/ac.jpg" alt="AC Repair in Uttar Pradesh"
                         class="img-fluid ac-image rounded-4 shadow-lg">
                     <div class="mt-4">
-                        <a href="tel:+917894606334" class="cta-btn">📞 Call +91-78946 06334</a>
+                        <a href="tel:+9178579023438" class="cta-btn">📞 Call +91 78579 023438</a>
                     </div>
                 </div>
             </div>
@@ -262,7 +232,7 @@
                     <div class="head-title mb-4">
                         <h2 class="text-white fw-bold">
                             Trusted Washing Machine Repair <br>
-                            in <span class="text-white">Bhubaneswar</span><br>
+                            in <span class="text-white">Uttar Pradesh</span><br>
                             by Hansraj Enterprises
                         </h2>
                     </div>
@@ -283,7 +253,7 @@
                     </ul>
 
                     <p class="text-white">
-                        <strong>Service Areas:</strong> Khandagiri, Patia, Laxmisagar, Saheed Nagar, Nayapalli & nearby
+                        <strong>Service Areas:</strong> Fast Doorstep Service across Uttar Pradesh & nearby
                         locations
                     </p>
 
@@ -292,12 +262,12 @@
 
                 <!-- Image -->
                 <div class="col-12 col-md-6 text-center">
-                    <img src="assets/images/about/washing-machine.jpg" alt="Washing Machine Repair in Bhubaneswar"
+                    <img src="assets/images/about/washing-machine.jpg" alt="Washing Machine Repair in Uttar Pradesh"
                         class="img-fluid shadow-lg rounded-4 w-100"
                         style="max-height: 400px; object-fit: cover; border: 5px solid #fff;">
 
                     <div class="mt-4">
-                        <a href="tel:+917894606334" class="cta-btn">📞 Call +91-78946 06334</a>
+                        <a href="tel:+9178579023438" class="cta-btn">📞 Call +91 78579 023438</a>
                     </div>
                 </div>
             </div>
@@ -600,21 +570,21 @@
                         <h4 class="mb-3">Contact Information</h4>
                         <p class="mb-2 ">
                             <strong>Address:</strong>
-                            Near, Sum Hospital Rd, Kalinganagar, Bhubaneswar, Odisha 751003
+                            Uttar Pradesh, India
                         </p>
                         <p class="mb-2">
                             <strong>Phone:</strong>
-                            <a href="tel:+917894606334" class="text-decoration-none text-dark">+91-78946 06334</a>
+                            <a href="tel:+9178579023438" class="text-decoration-none text-dark">+91 78579 023438</a>
                         </p>
                         <p class="mb-3">
                             <strong>Email:</strong>
-                            <a href="mailto:support@hansrajenterprises.in"
-                                class="text-decoration-none text-dark">support@hansrajenterprises.in</a>
+                            <a href="mailto:hansrajenterprises@gmail.com"
+                                class="text-decoration-none text-dark">hansrajenterprises@gmail.com</a>
                         </p>
                         <!-- Google Map -->
                         <div class="ratio ratio-4x3">
                             <iframe
-                                src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d239536.13348521694!2d85.678486!3d20.269114!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xad24d19b597d6a5d%3A0xc346c3e328dbd3d7!2sHANSRAJ%20ENTERPRISES%3A-%20Best%20washing%20machine%20%26%20fridge%20Repair%20in%20Bhubaneswar%7C%20washing%20machine%20repair%20in%20Bhubaneswar.!5e0!3m2!1sen!2sin!4v1751531014121!5m2!1sen!2sin"
+                                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3651878.694663731!2d77.58525704043906!3d27.130334360662207!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39994e9f7b4a09d3%3A0xf6a5476d3617249d!2sUttar%20Pradesh!5e0!3m2!1sen!2sin!4v1700000000000!5m2!1sen!2sin"
                                 width="100%" height="300" style="border:0;" allowfullscreen="" loading="lazy"
                                 referrerpolicy="no-referrer-when-downgrade"></iframe>
                         </div>
@@ -702,7 +672,7 @@
                 `🏠 *Address:* ${address || 'N/A'}%0A` +
                 `📝 *Message:* ${message}`;
 
-            const whatsappNumber = "917894606334";
+            const whatsappNumber = "9178579023438";
             const whatsappURL = `https://wa.me/${whatsappNumber}?text=${encodeURIComponent(formattedMessage)}`;
 
             window.open(whatsappURL, "_blank");

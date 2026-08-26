@@ -41,13 +41,13 @@
 
 <div class="chat-widget">
     <!-- WhatsApp -->
-    <a href="https://wa.me/917894606334?text=Hi%20there%2C%20I%20need%20assistance" target="_blank"
+    <a href="https://wa.me/9178579023438?text=Hi%20there%2C%20I%20need%20assistance" target="_blank"
         title="Chat on WhatsApp">
         <i class="bi bi-whatsapp"></i>
     </a>
 
     <!-- Call -->
-    <a href="tel:+917894606334" class="call-icon" title="Call Now">
+    <a href="tel:+9178579023438" class="call-icon" title="Call Now">
         <i class="bi bi-telephone-fill"></i>
     </a>
 </div>

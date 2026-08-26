@@ -16,12 +16,12 @@
 <!-- HERO -->
 <section class="hero-section text-white d-flex align-items-center">
     <div class="container text-center">
-        <h1 data-aos="fade-up">Expert Microwave Oven Repair in Bhubaneswar</h1>
+        <h1 data-aos="fade-up">Expert Microwave Oven Repair in Uttar Pradesh</h1>
         <p data-aos="fade-up" data-aos-delay="200">
             Fast, Reliable & Affordable Microwave Repair Service at Your Doorstep
         </p>
-        <a href="tel:+917894606334" class="btn btn-light mt-3" data-aos="zoom-in">
-            📞 Call Now
+        <a href="tel:+9178579023438" class="btn btn-light mt-3" data-aos="zoom-in">
+            📞 Call Now: 78579023438
         </a>
     </div>
 </section>
@@ -82,11 +82,11 @@
 <section class="py-5 text-center">
     <div class="container">
         <h2 class="fw-bold mb-4" data-aos="fade-up">
-            Professional Microwave Oven Repair in Bhubaneswar
+            Professional Microwave Oven Repair in Uttar Pradesh
         </h2>
 
         <p class="text-muted" style="max-width:850px;margin:auto;" data-aos="fade-up">
-            Looking for expert microwave oven repair services in Bhubaneswar? 
+            Looking for expert microwave oven repair services in Uttar Pradesh? 
             Hansraj Enterprises provides complete repair, installation and maintenance 
             services for all types of microwave ovens including convection, grill and solo models.
 
@@ -155,7 +155,7 @@
 <section class="cta-section text-white text-center py-5">
     <div class="container">
         <h3>Need Microwave Repair?</h3>
-        <a href="tel:+917894606334" class="btn btn-light mt-3">Call Now</a>
+        <a href="tel:+9178579023438" class="btn btn-light mt-3">Call Now: 78579023438</a>
     </div>
 </section>
 

@@ -68,26 +68,26 @@
 {
   "@context": "https://schema.org",
   "@type": "Organization",
-  "name": "Samaj Kalyan Foundation",
-  "url": "https://www.samajkalyanfoundation.life/",
-  "logo": "https://www.hansrajenterprises.com/assets/images/logo/logo.jpg",
+  "name": "Hansraj Enterprises",
+  "url": "https://hansrajenterprises.com/",
+  "logo": "https://hansrajenterprises.com/assets/images/logo/logo.png",
   "contactPoint": [
     {
       "@type": "ContactPoint",
-      "telephone": "+91 7752083960",
+      "telephone": "+91 78579023438",
       "contactType": "customer service",
       "areaServed": "IN"
     }
   ],
   "address": {
     "@type": "PostalAddress",
-    "streetAddress": "Near, Sum Hospital Rd, Kalinganagar",
-    "addressLocality": "Bhubaneswar",
-    "addressRegion": "Odisha",
-    "postalCode": "751003",
+    "streetAddress": "Uttar Pradesh",
+    "addressLocality": "Uttar Pradesh",
+    "addressRegion": "Uttar Pradesh",
+    "postalCode": "226001",
     "addressCountry": "IN"
   },
-  "description": "Hansraj Enterprises offers washing machine & AC repair near me in Bhubaneswar. Expert technicians, doorstep service & brand support."
+  "description": "Hansraj Enterprises offers washing machine, refrigerator & AC repair near me in Uttar Pradesh. Expert technicians, doorstep service & brand support."
 }
 </script>
 <!--===========================================================================-->

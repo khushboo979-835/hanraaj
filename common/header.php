@@ -184,8 +184,8 @@
         <div class="d-flex flex-wrap justify-content-between align-items-center gap-2">
             <!-- Left: Helpline & Email -->
             <div class="d-flex align-items-center flex-wrap gap-3">
-                <a href="tel:+917752083960" class="text-decoration-none fw-bold text-warning">
-                    <i class="bi bi-shield-fill-check me-1 text-warning"></i> <span data-lang-key="official_helpline">Official Helpline</span>: <strong>7752083960</strong>
+                <a href="tel:+9178579023438" class="text-decoration-none fw-bold text-warning">
+                    <i class="bi bi-shield-fill-check me-1 text-warning"></i> <span data-lang-key="official_helpline">Official Helpline</span>: <strong>78579023438</strong>
                 </a>
                 <span class="d-none d-md-inline text-white-50">|</span>
                 <a href="mailto:hansrajenterprises@gmail.com" class="text-decoration-none d-none d-md-inline small">
@@ -212,7 +212,7 @@
 
             <!-- Logo -->
             <a class="navbar-brand" href="<?= $base_url ?>">
-                <img src="<?= $base_url ?>assets/images/logo/logo.jpg" alt="Hansraj Enterprises" class="img-fluid" style="width: 150px;">
+                <img src="<?= $base_url ?>assets/images/logo/logo.png" alt="Hansraj Enterprises" class="img-fluid" style="width: 150px;">
             </a>
 
             <!-- Toggler -->
@@ -265,10 +265,10 @@
 
                     <!-- WhatsApp & Call (Visible only on lg and above) -->
                     <li class="nav-item d-none d-lg-flex align-items-center gap-2">
-                        <a href="https://wa.me/917752083960" class="btn btn-success btn-sm" target="_blank" data-lang-key="nav_whatsapp">
+                        <a href="https://wa.me/9178579023438" class="btn btn-success btn-sm" target="_blank" data-lang-key="nav_whatsapp">
                             <i class="bi bi-whatsapp"></i> WhatsApp
                         </a>
-                        <a href="tel:+917752083960" class="btn btn-primary btn-sm" data-lang-key="nav_call_now">
+                        <a href="tel:+9178579023438" class="btn btn-primary btn-sm" data-lang-key="nav_call_now">
                             <i class="bi bi-telephone-fill"></i> Call Now
                         </a>
                     </li>
@@ -278,10 +278,10 @@
 
         <!-- WhatsApp & Call (Visible only on md and below, below the navbar) -->
         <div class="d-lg-none d-flex align-items-center justify-content-center gap-2 px-3 mx-auto pt-2 w-100">
-            <a href="https://wa.me/917752083960" class="btn btn-success btn-sm w-50" target="_blank" data-lang-key="nav_whatsapp">
+            <a href="https://wa.me/9178579023438" class="btn btn-success btn-sm w-50" target="_blank" data-lang-key="nav_whatsapp">
                 <i class="bi bi-whatsapp"></i> WhatsApp
             </a>
-            <a href="tel:+917752083960" class="btn btn-primary btn-sm w-50" data-lang-key="nav_call_now">
+            <a href="tel:+9178579023438" class="btn btn-primary btn-sm w-50" data-lang-key="nav_call_now">
                 <i class="bi bi-telephone-fill"></i> Call Now
             </a>
         </div>

@@ -30,7 +30,7 @@ const HansrajLang = {
             hero_title_1: "Washing Machine Repair Experts",
             hero_desc_1: "Front Load, Top Load or Semi — We Repair All Types with Care",
             hero_title_2: "Expert AC Repair Services",
-            hero_desc_2: "Quick, Reliable & Affordable AC Repair at Your Doorstep in Bhubaneswar",
+            hero_desc_2: "Quick, Reliable & Affordable AC Repair at Your Doorstep in Uttar Pradesh",
             hero_title_3: "Trusted Refrigerator Repair",
             hero_desc_3: "We Fix Cooling, Gas, Leakage & More — Same-Day Fridge Service",
 
@@ -46,15 +46,15 @@ const HansrajLang = {
             about_btn: "Book a Technician",
 
             // Services
-            fridge_sec_title: "Premium Refrigerator Repair in Bhubaneswar by Hansraj Enterprises",
+            fridge_sec_title: "Premium Refrigerator Repair in Uttar Pradesh by Hansraj Enterprises",
             fridge_sec_lead: "Facing fridge troubles? Whether it’s not cooling, leaking, or making noise— Hansraj Enterprises offers quick, professional, and affordable fridge repair at your doorstep.",
             fridge_li_1: "All Fridge Types: Single, Double, Side-by-Side, Deep Freezer",
             fridge_li_2: "Cooling, Noise, Gas Refill, Defrost & Water Leakage Issues",
             fridge_li_3: "Trained Technicians | Same-Day Service | Transparent Charges",
-            fridge_li_4: "Trusted by 1000+ Bhubaneswar Homes & Businesses",
+            fridge_li_4: "Trusted by 1000+ Uttar Pradesh Homes & Businesses",
             fridge_areas: "Service Areas: Saheed Nagar, Nayapalli, Khandagiri, Patia, Rasulgarh & more",
 
-            ac_sec_title: "Professional AC Repair Services in Bhubaneswar by Hansraj Enterprises",
+            ac_sec_title: "Professional AC Repair Services in Uttar Pradesh by Hansraj Enterprises",
             ac_sec_lead: "Is your AC not cooling or making noise? Don’t sweat it. Hansraj Enterprises offers fast and reliable AC repair services at your doorstep — whether it's split, window, or commercial air conditioners.",
             ac_li_1: "Split, Window & Commercial AC Repair",
             ac_li_2: "Gas Refill, Water Leakage, Thermostat & Compressor Issues",
@@ -62,7 +62,7 @@ const HansrajLang = {
             ac_li_4: "Affordable Pricing | High Customer Satisfaction",
             ac_areas: "Service Areas: Saheed Nagar, Patia, Rasulgarh, Nayapalli, Khandagiri & more",
 
-            wm_sec_title: "Trusted Washing Machine Repair in Bhubaneswar by Hansraj Enterprises",
+            wm_sec_title: "Trusted Washing Machine Repair in Uttar Pradesh by Hansraj Enterprises",
             wm_sec_lead: "Is your washing machine not spinning, draining, or vibrating abnormally? Hansraj Enterprises provides expert repair for all types of washing machines — fully automatic, semi-automatic, and front or top load models.",
             wm_li_1: "Front Load, Top Load & Semi-Automatic Machine Repairs",
             wm_li_2: "Drainage, Motor, Drum, Spin, and Noise Issues",
@@ -70,8 +70,8 @@ const HansrajLang = {
             wm_li_4: "Affordable Pricing with High Customer Satisfaction",
             wm_areas: "Service Areas: Khandagiri, Patia, Laxmisagar, Saheed Nagar, Nayapalli & nearby locations",
 
-            serve_all_title: "We Serve All Over Bhubaneswar",
-            serve_all_desc: "Hansraj Enterprises provides doorstep appliance repair services across all major localities of Bhubaneswar.",
+            serve_all_title: "We Serve All Over Uttar Pradesh",
+            serve_all_desc: "Hansraj Enterprises provides doorstep appliance repair services across all major localities of Uttar Pradesh.",
 
             // Guidelines Section
             guidelines_badge: "Safety & Verification Policy",
@@ -92,7 +92,7 @@ const HansrajLang = {
 
             // Footer
             footer_about_title: "About Hansraj Enterprises",
-            footer_about_desc: "Hansraj Enterprises is your trusted service provider in Bhubaneswar, offering reliable and efficient repair services for Washing Machines, Refrigerators & Air Conditioners. We’re committed to top-notch service with a customer-first approach.",
+            footer_about_desc: "Hansraj Enterprises is your trusted service provider in Uttar Pradesh, offering reliable and efficient repair services for Washing Machines, Refrigerators & Air Conditioners. We’re committed to top-notch service with a customer-first approach.",
             footer_quick_links: "Quick Links",
             footer_contact_title: "Contact Us",
             footer_rights: "Hansraj Enterprises | All Rights Reserved"

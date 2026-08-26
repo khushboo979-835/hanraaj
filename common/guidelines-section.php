@@ -419,12 +419,12 @@
                                 Speak directly to the company representative before making any payment:
                             </p>
                             <div class="mb-3">
-                                <a href="tel:+917752083960" class="pro-call-btn">
-                                    <i class="bi bi-telephone-fill"></i> 7752083960
+                                <a href="tel:+9178579023438" class="pro-call-btn">
+                                    <i class="bi bi-telephone-fill"></i> 78579023438
                                 </a>
                             </div>
                             <div class="d-flex justify-content-center gap-2">
-                                <a href="https://wa.me/917752083960?text=Hello%20Hansraj%20Enterprises,%20I%20want%20to%20verify%20my%20service/payment" class="btn btn-sm btn-success rounded-pill px-3 fw-semibold" target="_blank">
+                                <a href="https://wa.me/9178579023438?text=Hello%20Hansraj%20Enterprises,%20I%20want%20to%20verify%20my%20service/payment" class="btn btn-sm btn-success rounded-pill px-3 fw-semibold" target="_blank">
                                     <i class="bi bi-whatsapp me-1"></i> WhatsApp Verification
                                 </a>
                             </div>
@@ -451,7 +451,7 @@
 
                                 <div class="pro-reward-step">
                                     <i class="bi bi-record-circle-fill text-danger pro-reward-icon"></i>
-                                    <div><strong>Record Evidence:</strong> Record conversation or relevant evidence (where legally permitted) and send directly to <strong>7752083960</strong>.</div>
+                                    <div><strong>Record Evidence:</strong> Record conversation or relevant evidence (where legally permitted) and send directly to <strong>78579023438</strong>.</div>
                                 </div>
                                 <div class="pro-reward-step">
                                     <i class="bi bi-tag-fill text-success pro-reward-icon"></i>
@@ -463,11 +463,11 @@
                                 </div>
                                 <div class="pro-reward-step">
                                     <i class="bi bi-info-circle-fill text-primary pro-reward-icon"></i>
-                                    <div><strong>Do Not Confront:</strong> Please do not argue with the technician. Simply report the matter directly to <strong>7752083960</strong> with evidence.</div>
+                                    <div><strong>Do Not Confront:</strong> Please do not argue with the technician. Simply report the matter directly to <strong>78579023438</strong> with evidence.</div>
                                 </div>
 
                                 <div class="mt-3">
-                                    <a href="https://wa.me/917752083960?text=Hello%20Hansraj%20Enterprises,%20I%20want%20to%20report%20a%20technician%20matter%20with%20evidence" class="btn btn-outline-success w-100 rounded-pill fw-bold btn-sm py-2" target="_blank">
+                                    <a href="https://wa.me/9178579023438?text=Hello%20Hansraj%20Enterprises,%20I%20want%20to%20report%20a%20technician%20matter%20with%20evidence" class="btn btn-outline-success w-100 rounded-pill fw-bold btn-sm py-2" target="_blank">
                                         <i class="bi bi-whatsapp me-1"></i> Report with Evidence via WhatsApp
                                     </a>
                                 </div>
@@ -550,12 +550,12 @@
                                 किसी भी प्रकार का भुगतान करने से पहले कंपनी प्रतिनिधि से सीधे बात करें:
                             </p>
                             <div class="mb-3">
-                                <a href="tel:+917752083960" class="pro-call-btn">
-                                    <i class="bi bi-telephone-fill"></i> 7752083960
+                                <a href="tel:+9178579023438" class="pro-call-btn">
+                                    <i class="bi bi-telephone-fill"></i> 78579023438
                                 </a>
                             </div>
                             <div class="d-flex justify-content-center gap-2">
-                                <a href="https://wa.me/917752083960?text=नमस्ते%20हंसराज%20एंटरप्राइजेज,%20मुझे%20सर्विस/पेमेंट%20की%20पुष्टि%20करनी%20है" class="btn btn-sm btn-success rounded-pill px-3 fw-semibold" target="_blank">
+                                <a href="https://wa.me/9178579023438?text=नमस्ते%20हंसराज%20एंटरप्राइजेज,%20मुझे%20सर्विस/पेमेंट%20की%20पुष्टि%20करनी%20है" class="btn btn-sm btn-success rounded-pill px-3 fw-semibold" target="_blank">
                                     <i class="bi bi-whatsapp me-1"></i> व्हाट्सएप द्वारा पुष्टि
                                 </a>
                             </div>
@@ -582,7 +582,7 @@
 
                                 <div class="pro-reward-step">
                                     <i class="bi bi-record-circle-fill text-danger pro-reward-icon"></i>
-                                    <div><strong>सबूत रिकॉर्ड करें:</strong> जहाँ कानूनी अनुमति हो, बातचीत या सबूत की Recording करके सीधे <strong>7752083960</strong> पर भेजें।</div>
+                                    <div><strong>सबूत रिकॉर्ड करें:</strong> जहाँ कानूनी अनुमति हो, बातचीत या सबूत की Recording करके सीधे <strong>78579023438</strong> पर भेजें।</div>
                                 </div>
                                 <div class="pro-reward-step">
                                     <i class="bi bi-tag-fill text-success pro-reward-icon"></i>
@@ -594,11 +594,11 @@
                                 </div>
                                 <div class="pro-reward-step">
                                     <i class="bi bi-info-circle-fill text-primary pro-reward-icon"></i>
-                                    <div><strong>विवाद न करें:</strong> Technician से बहस या विवाद न करें। केवल सबूत के साथ सीधे कंपनी को <strong>7752083960</strong> पर सूचना दें।</div>
+                                    <div><strong>विवाद न करें:</strong> Technician से बहस या विवाद न करें। केवल सबूत के साथ सीधे कंपनी को <strong>78579023438</strong> पर सूचना दें।</div>
                                 </div>
 
                                 <div class="mt-3">
-                                    <a href="https://wa.me/917752083960?text=नमस्ते%20हंसराज%20एंटरप्राइजेज,%20मुझे%20टेक्नीशियन%20के%20बारे%20में%20सबूत%20के%20साथ%20रिपोर्ट%20करना%20है" class="btn btn-outline-success w-100 rounded-pill fw-bold btn-sm py-2" target="_blank">
+                                    <a href="https://wa.me/9178579023438?text=नमस्ते%20हंसराज%20एंटरप्राइजेज,%20मुझे%20टेक्नीशियन%20के%20बारे%20में%20सबूत%20के%20साथ%20रिपोर्ट%20करना%20है" class="btn btn-outline-success w-100 rounded-pill fw-bold btn-sm py-2" target="_blank">
                                         <i class="bi bi-whatsapp me-1"></i> व्हाट्सएप पर सबूत भेजें / रिपोर्ट करें
                                     </a>
                                 </div>
@@ -681,12 +681,12 @@
                                 କୌଣସି Payment କରିବା ପୂର୍ବରୁ ସିଧାସଳଖ Company ପ୍ରତିନିଧିଙ୍କ ସହ କଥା ହୁଅନ୍ତୁ:
                             </p>
                             <div class="mb-3">
-                                <a href="tel:+917752083960" class="pro-call-btn">
-                                    <i class="bi bi-telephone-fill"></i> 7752083960
+                                <a href="tel:+9178579023438" class="pro-call-btn">
+                                    <i class="bi bi-telephone-fill"></i> 78579023438
                                 </a>
                             </div>
                             <div class="d-flex justify-content-center gap-2">
-                                <a href="https://wa.me/917752083960?text=ନମସ୍କାର%20ହଂସରାଜ%20ଏଣ୍ଟରପ୍ରାଇଜେସ୍,%20ମୁଁ%20ସର୍ଭିସ୍/ପେମେଣ୍ଟ%20ନିଶ୍ଚିତ%20କରିବାକୁ%20ଚାହୁଁଛି" class="btn btn-sm btn-success rounded-pill px-3 fw-semibold" target="_blank">
+                                <a href="https://wa.me/9178579023438?text=ନମସ୍କାର%20ହଂସରାଜ%20ଏଣ୍ଟରପ୍ରାଇଜେସ୍,%20ମୁଁ%20ସର୍ଭିସ୍/ପେମେଣ୍ଟ%20ନିଶ୍ଚିତ%20କରିବାକୁ%20ଚାହୁଁଛି" class="btn btn-sm btn-success rounded-pill px-3 fw-semibold" target="_blank">
                                     <i class="bi bi-whatsapp me-1"></i> ହ୍ୱାଟ୍ସଆପ୍ ଯାଞ୍ଚ
                                 </a>
                             </div>
@@ -713,7 +713,7 @@
 
                                 <div class="pro-reward-step">
                                     <i class="bi bi-record-circle-fill text-danger pro-reward-icon"></i>
-                                    <div><strong>ପ୍ରମାଣ ରେକର୍ଡିଂ କରନ୍ତୁ:</strong> ଆଇନ ଅନୁମତି ଦେଉଥିବା ସ୍ଥାନରେ କଥାବାର୍ତ୍ତା ବା ପ୍ରମାଣ Recording କରି <strong>7752083960</strong> କୁ ପଠାନ୍ତୁ।</div>
+                                    <div><strong>ପ୍ରମାଣ ରେକର୍ଡିଂ କରନ୍ତୁ:</strong> ଆଇନ ଅନୁମତି ଦେଉଥିବା ସ୍ଥାନରେ କଥାବାର୍ତ୍ତା ବା ପ୍ରମାଣ Recording କରି <strong>78579023438</strong> କୁ ପଠାନ୍ତୁ।</div>
                                 </div>
                                 <div class="pro-reward-step">
                                     <i class="bi bi-tag-fill text-success pro-reward-icon"></i>
@@ -725,11 +725,11 @@
                                 </div>
                                 <div class="pro-reward-step">
                                     <i class="bi bi-info-circle-fill text-primary pro-reward-icon"></i>
-                                    <div><strong>ବିବାଦ କରନ୍ତୁ ନାହିଁ:</strong> Technician ଙ୍କ ସହିତ ଯୁକ୍ତିତର୍କ କରନ୍ତୁ ନାହିଁ। ଉପଲବ୍ଧ ପ୍ରମାଣ ସହିତ <strong>7752083960</strong> ରେ ଜଣାନ୍ତୁ।</div>
+                                    <div><strong>ବିବାଦ କରନ୍ତୁ ନାହିଁ:</strong> Technician ଙ୍କ ସହିତ ଯୁକ୍ତିତର୍କ କରନ୍ତୁ ନାହିଁ। ଉପଲବ୍ଧ ପ୍ରମାଣ ସହିତ <strong>78579023438</strong> ରେ ଜଣାନ୍ତୁ।</div>
                                 </div>
 
                                 <div class="mt-3">
-                                    <a href="https://wa.me/917752083960?text=ନମସ୍କାର%20ହଂସରାଜ%20ଏଣ୍ଟରପ୍ରାଇଜେସ୍,%20ମୁଁ%20ଟେକ୍ନିସିଆନ୍%20ଙ୍କ%20ସମ୍ବନ୍ଧରେ%20ପ୍ରମାଣ%20ସହ%20ରିପୋର୍ଟ%20କରିବାକୁ%20ଚାହୁଁଛି" class="btn btn-outline-success w-100 rounded-pill fw-bold btn-sm py-2" target="_blank">
+                                    <a href="https://wa.me/9178579023438?text=ନମସ୍କାର%20ହଂସରାଜ%20ଏଣ୍ଟରପ୍ରାଇଜେସ୍,%20ମୁଁ%20ଟେକ୍ନିସିଆନ୍%20ଙ୍କ%20ସମ୍ବନ୍ଧରେ%20ପ୍ରମାଣ%20ସହ%20ରିପୋର୍ଟ%20କରିବାକୁ%20ଚାହୁଁଛି" class="btn btn-outline-success w-100 rounded-pill fw-bold btn-sm py-2" target="_blank">
                                         <i class="bi bi-whatsapp me-1"></i> ପ୍ରମାଣ ସହ ହ୍ୱାଟ୍ସଆପ୍ ରେ ରିପୋର୍ଟ କରନ୍ତୁ
                                     </a>
                                 </div>

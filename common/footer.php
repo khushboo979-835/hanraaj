@@ -109,11 +109,11 @@
         <div class="row gy-5">
             <!-- About -->
             <div class="col-md-5">
-                <img src="<?= $base_url ?>assets/images/logo/logo.jpg" alt="Hansraj Enterprises Logo" class="footer-logo rounded">
+                <img src="<?= $base_url ?>assets/images/logo/logo.png" alt="Hansraj Enterprises Logo" class="footer-logo rounded">
                 <div class="py-2">
                     <h3 data-lang-key="footer_about_title">About Hansraj Enterprises</h3>
                     <p data-lang-key="footer_about_desc">
-                        Hansraj Enterprises is your trusted service provider in Bhubaneswar, offering reliable and
+                        Hansraj Enterprises is your trusted service provider in Uttar Pradesh, offering reliable and
                         efficient
                         repair services for Washing Machines, Refrigerators & Air Conditioners. We’re committed to
                         top-notch service with a customer-first approach.
@@ -138,14 +138,10 @@
                 <h3 data-lang-key="footer_contact_title">Contact Us</h3>
                 <p>
                     <strong>Address:</strong>
-                    Near, Sum Hospital Rd, Kalinganagar, Bhubaneswar, Odisha 751029
+                    Uttar Pradesh, India
                 </p>
-                <p><strong>Official Helpline:</strong> <a href="tel:+917752083960" class="text-warning fw-bold">+91 77520 83960</a></p>
-                <p>
-                    <strong>Cuttack Branch:</strong>
-                    Near, sector 6 park Cuttack , 753014
-                </p>
-                <p><strong>Phone:</strong> <a href="tel:+917894606334" class="text-white">+91 78946 06334</a></p>
+                <p><strong>Official Helpline:</strong> <a href="tel:+9178579023438" class="text-warning fw-bold">+91 78579 023438</a></p>
+                <p><strong>Phone:</strong> <a href="tel:+9178579023438" class="text-white">+91 78579 023438</a></p>
                 
                 <p><strong>Email:</strong> <a href="mailto:hansrajenterprises@gmail.com"
                         class="text-white">hansrajenterprises@gmail.com</a></p>
@@ -164,8 +160,8 @@
             <p class="mb-0">
                 &copy;
                 <script>document.write(new Date().getFullYear());</script> <span data-lang-key="footer_rights">Hansraj Enterprises | All Rights Reserved</span> |
-                Website Design & Maintain By: <a href="https://coralwebtechnology.com"
-                    class="text-white text-decoration-none" target="_blank">coralwebtechnology.com</a>
+                Website Design & Maintain By: <a href="https://www.digitalinfinityddis.com/"
+                    class="text-white text-decoration-none" target="_blank">DDIS</a>
             </p>
         </div>
     </div>

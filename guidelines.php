@@ -5,7 +5,7 @@
     <?php include "common/config.php"; ?>
     <?php include "common/head.php"; ?>
     <title>Customer Guidelines, Disclaimer & Policy | Hansraj Enterprises</title>
-    <meta name="description" content="Official customer guidelines, payment safety disclaimer, helpline 7752083960, and reporting reward policy in English, Hindi, and Odia.">
+    <meta name="description" content="Official customer guidelines, payment safety disclaimer, helpline 78579023438, and reporting reward policy in English, Hindi, and Odia.">
 </head>
 
 <body>
