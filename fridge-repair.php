@@ -2,7 +2,7 @@
 <html lang="en">
 
 <head>
-    <?php include $base_path . "common/config.php"; ?>
+    <?php include_once __DIR__ . "/common/config.php"; ?>
     <?php include $base_path . "common/head.php"; ?>
 
     <!-- AOS Animation -->

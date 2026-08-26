@@ -1,0 +1,68 @@
+{
+  "version": 2,
+  "functions": {
+    "*.php": {
+      "runtime": "vercel-php@0.7.3"
+    },
+    "blogs/*.php": {
+      "runtime": "vercel-php@0.7.3"
+    },
+    "admin/*.php": {
+      "runtime": "vercel-php@0.7.3"
+    }
+  },
+  "routes": [
+    {
+      "src": "/assets/(.*)",
+      "dest": "/assets/$1"
+    },
+    {
+      "src": "/admin/assets/(.*)",
+      "dest": "/admin/assets/$1"
+    },
+    {
+      "src": "/admin/uploads/(.*)",
+      "dest": "/admin/uploads/$1"
+    },
+    {
+      "src": "/",
+      "dest": "/index.php"
+    },
+    {
+      "src": "/blogs/?",
+      "dest": "/blogs/index.php"
+    },
+    {
+      "src": "/blogs/(.*)",
+      "dest": "/blogs/$1"
+    },
+    {
+      "src": "/guidelines/?",
+      "dest": "/guidelines.php"
+    },
+    {
+      "src": "/ac-repair/?",
+      "dest": "/ac-repair.php"
+    },
+    {
+      "src": "/fridge-repair/?",
+      "dest": "/fridge-repair.php"
+    },
+    {
+      "src": "/microwave-repair/?",
+      "dest": "/microwave-repair.php"
+    },
+    {
+      "src": "/washing-machine/?",
+      "dest": "/washing-machine.php"
+    },
+    {
+      "src": "/(.*)\\.php",
+      "dest": "/$1.php"
+    },
+    {
+      "src": "/(.*)",
+      "dest": "/$1"
+    }
+  ]
+}

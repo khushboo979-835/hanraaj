@@ -2,7 +2,7 @@
 <html lang="en">
 
 <head>
-    <?php include $base_path . "common/config.php"; ?>
+    <?php include_once __DIR__ . "/common/config.php"; ?>
     <?php include $base_path . "common/head.php"; ?>
 
     <link href="https://cdnjs.cloudflare.com/ajax/libs/aos/2.3.4/aos.css" rel="stylesheet">

@@ -2,7 +2,7 @@
 <html lang="en">
 
 <head>
-    <?php include $base_path . "common/config.php"; ?>
+    <?php include_once __DIR__ . "/common/config.php"; ?>
     <?php include $base_path . "common/head.php"; ?>
     <link rel="preload" as="image" href="assets/images/banner/1.avif">
     <link rel="preload" as="image" href="assets/images/banner/2.avif">
