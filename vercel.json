@@ -2,6 +2,8 @@
   "cleanUrls": true,
   "rewrites": [
     { "source": "/", "destination": "/index.html" },
+    { "source": "/locations", "destination": "/locations.html" },
+    { "source": "/location/:slug", "destination": "/location/:slug.html" },
     { "source": "/ac-repair", "destination": "/ac-repair.html" },
     { "source": "/fridge-repair", "destination": "/fridge-repair.html" },
     { "source": "/microwave-repair", "destination": "/microwave-repair.html" },

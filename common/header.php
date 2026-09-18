@@ -242,6 +242,27 @@
                         </ul>
                     </li>
 
+                    <!-- Locations Dropdown -->
+                    <li class="nav-item dropdown me-3">
+                        <a class="nav-link dropdown-toggle fw-semibold text-primary" href="#" id="locationsDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                            <i class="bi bi-geo-alt-fill text-danger me-1"></i> Locations
+                        </a>
+                        <ul class="dropdown-menu shadow border-0" style="min-width: 260px; max-height: 400px; overflow-y: auto;">
+                            <li><h6 class="dropdown-header text-uppercase small fw-bold text-muted">Service Hubs (Bhubaneswar)</h6></li>
+                            <li><a class="dropdown-item" href="<?= $base_url ?>location/kiit-road-patia.html"><i class="bi bi-geo-alt me-2 text-primary"></i> KIIT Road, Patia</a></li>
+                            <li><a class="dropdown-item" href="<?= $base_url ?>location/kalinga-institute-of-industrial-technology.html"><i class="bi bi-geo-alt me-2 text-primary"></i> KIIT University Campus</a></li>
+                            <li><a class="dropdown-item" href="<?= $base_url ?>location/iter-siksha-o-anusandhan.html"><i class="bi bi-geo-alt me-2 text-primary"></i> ITER SOA, Jagamara</a></li>
+                            <li><a class="dropdown-item" href="<?= $base_url ?>location/nexus-esplanade.html"><i class="bi bi-geo-alt me-2 text-primary"></i> Nexus Esplanade, Rasulgarh</a></li>
+                            <li><a class="dropdown-item" href="<?= $base_url ?>location/dav-public-school-pokhariput.html"><i class="bi bi-geo-alt me-2 text-primary"></i> DAV Public School, Pokhariput</a></li>
+                            <li><a class="dropdown-item" href="<?= $base_url ?>location/unit-1-market.html"><i class="bi bi-geo-alt me-2 text-primary"></i> Unit 1 Market & Bapuji Nagar</a></li>
+                            <li><a class="dropdown-item" href="<?= $base_url ?>location/gita-autonomous-college.html"><i class="bi bi-geo-alt me-2 text-primary"></i> GITA Autonomous College</a></li>
+                            <li><a class="dropdown-item" href="<?= $base_url ?>location/capital-hospital-bhubaneswar.html"><i class="bi bi-geo-alt me-2 text-primary"></i> PGIMER & Capital Hospital</a></li>
+                            <li><a class="dropdown-item" href="<?= $base_url ?>location/hi-tech-medical-college-hospital.html"><i class="bi bi-geo-alt me-2 text-primary"></i> Hi-Tech Medical College</a></li>
+                            <li><hr class="dropdown-divider"></li>
+                            <li><a class="dropdown-item text-primary fw-bold text-center" href="<?= $base_url ?>locations.html">View All Locations <i class="bi bi-arrow-right"></i></a></li>
+                        </ul>
+                    </li>
+
                     <!-- Customer Guidelines Section Link -->
                     <li class="nav-item me-3">
                         <a class="nav-link text-danger fw-bold" href="<?= $base_url ?>#guidelines" data-lang-key="nav_guidelines">
